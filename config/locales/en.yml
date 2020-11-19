@@ -8,10 +8,15 @@ en:
         memo: Description
         author: Author
         picture: Picture
+  link:
+    show: Show
+    edit: Edit
+    destroy: Delete
+    new: New Book
+    back: Back
   helpers:
     select:
       prompt: Select please
     submit:
       create: Create
-      submit: Submit
       update: Update

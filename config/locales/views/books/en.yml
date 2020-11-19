@@ -1,0 +1,9 @@
+en:
+  books:
+    index:
+      heading: Books
+      confirm: Are you sure?
+    new:
+      heading: New Book
+    edit:
+      heading: Edit Book
