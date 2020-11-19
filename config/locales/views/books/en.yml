@@ -7,3 +7,7 @@ en:
       heading: New Book
     edit:
       heading: Edit Book
+    notice:
+      created: Book was successfully created.
+      updated: Book was successfully updated.
+      deleted: Book was successfully deleted.
