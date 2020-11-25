@@ -1,0 +1,13 @@
+ja:
+  books:
+    index:
+      heading: 書籍
+      confirm: 本当に削除してよろしいですか？
+    new:
+      heading: 新規作成
+    edit:
+      heading: 本の編集
+    notice:
+      created: 正常に登録されました
+      updated: 正常に編集されました
+      deleted: 正常に削除されました

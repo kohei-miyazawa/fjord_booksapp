@@ -1,0 +1,13 @@
+en:
+  books:
+    index:
+      heading: Books
+      confirm: Are you sure?
+    new:
+      heading: New Book
+    edit:
+      heading: Edit Book
+    notice:
+      created: Book was successfully created.
+      updated: Book was successfully updated.
+      deleted: Book was successfully deleted.
